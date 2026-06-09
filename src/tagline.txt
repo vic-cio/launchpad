@@ -1,1 +1,1 @@
-Understanding Git is table stakes for developers.
+Version control made simple.
